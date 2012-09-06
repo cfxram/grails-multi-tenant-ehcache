@@ -17,7 +17,7 @@ grails.project.dependency.resolution = {
     dependencies{}
     plugins{
       compile ":falcone-util:1.1-DEV"
-      compile ":multi-tenant-core:1.1-DEV"
+      compile ":multi-tenant-core:1.1-DEV-A"
       compile ":dynamic-controller:0.2.1"
     }
 
